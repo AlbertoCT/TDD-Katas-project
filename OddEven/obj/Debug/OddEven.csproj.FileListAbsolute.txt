@@ -1,0 +1,6 @@
+C:\Users\achesa\source\repos\TDD-Katas-project\OddEven\bin\Debug\OddEven.dll
+C:\Users\achesa\source\repos\TDD-Katas-project\OddEven\bin\Debug\OddEven.pdb
+C:\Users\achesa\source\repos\TDD-Katas-project\OddEven\obj\Debug\OddEven.csprojResolveAssemblyReference.cache
+C:\Users\achesa\source\repos\TDD-Katas-project\OddEven\obj\Debug\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\achesa\source\repos\TDD-Katas-project\OddEven\obj\Debug\OddEven.dll
+C:\Users\achesa\source\repos\TDD-Katas-project\OddEven\obj\Debug\OddEven.pdb
