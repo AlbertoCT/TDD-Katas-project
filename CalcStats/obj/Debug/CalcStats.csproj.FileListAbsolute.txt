@@ -1,0 +1,6 @@
+C:\Users\achesa\source\repos\TDD-Katas-project\CalcStats\bin\Debug\CalcStats.dll
+C:\Users\achesa\source\repos\TDD-Katas-project\CalcStats\bin\Debug\CalcStats.pdb
+C:\Users\achesa\source\repos\TDD-Katas-project\CalcStats\obj\Debug\CalcStats.csproj.CoreCompileInputs.cache
+C:\Users\achesa\source\repos\TDD-Katas-project\CalcStats\obj\Debug\CalcStats.dll
+C:\Users\achesa\source\repos\TDD-Katas-project\CalcStats\obj\Debug\CalcStats.pdb
+C:\Users\achesa\source\repos\TDD-Katas-project\CalcStats\obj\Debug\CalcStats.csprojResolveAssemblyReference.cache
